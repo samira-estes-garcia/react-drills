@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-drills/static/css/main.e97808b2.chunk.css",
+    "main.js": "/react-drills/static/js/main.097bac19.chunk.js",
+    "main.js.map": "/react-drills/static/js/main.097bac19.chunk.js.map",
+    "runtime~main.js": "/react-drills/static/js/runtime~main.6c3a2765.js",
+    "runtime~main.js.map": "/react-drills/static/js/runtime~main.6c3a2765.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/react-drills/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/react-drills/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/react-drills/index.html",
+    "precache-manifest.b3332aea059dbdf92ce45215c2b9c405.js": "/react-drills/precache-manifest.b3332aea059dbdf92ce45215c2b9c405.js",
+    "service-worker.js": "/react-drills/service-worker.js",
+    "static/css/main.e97808b2.chunk.css.map": "/react-drills/static/css/main.e97808b2.chunk.css.map"
+  }
+}
